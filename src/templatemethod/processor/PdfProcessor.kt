@@ -1,4 +1,4 @@
-package templatemethod
+package templatemethod.processor
 
 class PdfProcessor : DocumentProcessor() {
     override fun extractData() {
